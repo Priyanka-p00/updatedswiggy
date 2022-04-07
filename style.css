@@ -1,0 +1,90 @@
+h1 {
+    display: block;
+    font-size: 3em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+#swiggyLable{
+color:#9b7859;
+ position:absolute;
+  top:0px;
+  left:90px;
+  letter-spacing: 1.53px
+}
+.signUp {
+  background: black;
+  color: white;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-right: 14px;
+  padding-left: 14px;
+  Border: 0px;
+
+}
+.searchBox{
+padding-right:400px;
+ Padding-left:10px;
+  padding-top:19px;
+  padding-bottom:19px;
+  font-weight:100;
+   border-top-color: rgb(190, 191, 197);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(190, 191, 197);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(190, 191, 197);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(190, 191, 197);
+    border-left-style: solid;
+    border-left-width: 1px;
+}
+.locateMe{
+  Background-color:transparent;           Border:0px;
+   position:relative;
+  top:0px;left:-230px;
+  Font-size:15px;
+  cursor:pointer;
+  content:"\E914";
+}
+.locateMe:hover{
+  Background-color:#A1A1A2;   
+}
+.findFood{
+  cursor:pointer;
+  color:white;
+  font-size:200;
+  text-align:center;
+  background-color:#FC8019;
+  padding-right:8px;
+  Padding-left:10px;
+  padding-top:0px;
+  padding-bottom:2.4px;
+  font-weight:100;
+  position:absolute;
+  top:253px;
+  left:542px;
+   border:0px;
+   line-height: 60px;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: .53px;
+  box-sizing:inherit;
+  
+}
+.BackgroundImage{
+  position: absolute;
+    left: calc(50% + 80px);
+    right: 0;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+    background-position: 100%;
+    top: 0;
+    background-color: rgba(145, 140, 137, 0.2);
+}
+
